@@ -1,0 +1,33 @@
+C:\Users\Admin\Desktop\Хлам\Hanoi\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Admin\Desktop\Хлам\Hanoi\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Admin\Desktop\Хлам\Hanoi\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Admin\Desktop\Хлам\Hanoi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Хлам\Hanoi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Хлам\Hanoi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Admin\Desktop\Хлам\Hanoi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Admin\Desktop\Хлам\Hanoi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Хлам\Hanoi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Хлам\Hanoi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Admin\Desktop\Хлам\Hanoi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\АннА\Downloads\Hanoi.rar_pass_123 (1)\Hanoi\Hanoi\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\АннА\Downloads\Hanoi.rar_pass_123 (1)\Hanoi\Hanoi\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\АннА\Downloads\Hanoi.rar_pass_123 (1)\Hanoi\Hanoi\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\АннА\Downloads\Hanoi.rar_pass_123 (1)\Hanoi\Hanoi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\АннА\Downloads\Hanoi.rar_pass_123 (1)\Hanoi\Hanoi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\АннА\Downloads\Hanoi.rar_pass_123 (1)\Hanoi\Hanoi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\АннА\Downloads\Hanoi.rar_pass_123 (1)\Hanoi\Hanoi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\АннА\Downloads\Hanoi.rar_pass_123 (1)\Hanoi\Hanoi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\АннА\Downloads\Hanoi.rar_pass_123 (1)\Hanoi\Hanoi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\АннА\Downloads\Hanoi.rar_pass_123 (1)\Hanoi\Hanoi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\АннА\Downloads\Hanoi.rar_pass_123 (1)\Hanoi\Hanoi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\test\Ханойская\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\test\Ханойская\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\test\Ханойская\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\test\Ханойская\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\test\Ханойская\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+D:\test\Ханойская\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\test\Ханойская\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\test\Ханойская\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\test\Ханойская\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\test\Ханойская\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\test\Ханойская\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
